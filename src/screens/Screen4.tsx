@@ -14,9 +14,9 @@ export const Screen4 = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-    backgroundColor: '#63BBC7',
-    alignItems: 'center',
-    justifyContent: 'space-between',
+        backgroundColor: '#63BBC7',
+        alignItems: 'center',
+        justifyContent: 'space-between',
 
     },
     boxBlue:{
